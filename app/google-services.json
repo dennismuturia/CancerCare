@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "958823418351",
+    "firebase_url": "https://cancer-173e8.firebaseio.com",
+    "project_id": "cancer-173e8",
+    "storage_bucket": "cancer-173e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958823418351:android:ee90f922bb8fab38",
+        "android_client_info": {
+          "package_name": "com.example.dennis.groupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958823418351-bbnbokuq06ul0s30lu179ngt9fjcpcc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dennis.groupchat",
+            "certificate_hash": "395c5d8825e6e82c089fbb08350f91e35ffc4b5e"
+          }
+        },
+        {
+          "client_id": "958823418351-aj38cbjcna1kbvc78c9tp3tvh2vjrr5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnvXlrRMiZfX23aZlApqDw9eDPvi364T8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958823418351-aj38cbjcna1kbvc78c9tp3tvh2vjrr5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
